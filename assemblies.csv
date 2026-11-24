@@ -1,0 +1,1 @@
+accession,organism,strain,biosample,bioproject,runs,read_types,sra_source,sequencing_tech,assembler,file,n_sequences,seq_ids,genome_size,source_sha256,isescan_version,fraggenescan_version,breseq_version,n_mobile_element,n_repeat_region,date,command,n_residual,status,notes

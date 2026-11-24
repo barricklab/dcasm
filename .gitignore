@@ -1,0 +1,8 @@
+# API response cache
+.cache/
+
+# brefito working directories: assembly downloads, ISEScan runs and breseq runs, one per assembly
+build/
+
+__pycache__/
+.DS_Store
